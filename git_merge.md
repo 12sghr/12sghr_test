@@ -22,3 +22,10 @@ git merge [マージ元のブランチ]
  git remote add origin git@github.com:hogehoge
  git push origin master
  ```
+
+- tig  
+ コミットがグラフィカルに見える
+
+ ```sh
+ tig
+ ```
