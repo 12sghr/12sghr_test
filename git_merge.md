@@ -1,13 +1,13 @@
 #Git
 - マージする  
 
-```sh
-git checkout -b [new_branchname]
-git add [filename]
-git commit -m "[commit message]"
-git checkout [マージ先のブランチ]
-git merge [マージ元のブランチ]
-```
+ ```sh
+ git checkout -b [new_branchname]
+ git add [filename]
+ git commit -m "[commit message]"
+ git checkout [マージ先のブランチ]
+ git merge [マージ元のブランチ]
+ ```
 
 - 一かたまりずつaddする  
 
