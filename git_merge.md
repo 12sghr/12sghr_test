@@ -15,3 +15,10 @@ git merge [マージ元のブランチ]
  git add -p [filename]
  ```
  sを選択するとスプリット選択できる
+
+- push
+
+ ```sh
+ git remote add origin git@github.com:hogehoge
+ git push origin master
+ ```
